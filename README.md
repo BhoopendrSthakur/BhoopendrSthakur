@@ -25,7 +25,7 @@
 
 <div>
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" alt="jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://miro.medium.com/v2/resize:fit:600/0*sCkSCEPxN6IPjir3.jpg" alt="jupyter" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.freepik.com/256/4248/4248443.png?semt=ais_hybrid" alt="SQL" width="40" height="40"/>&nbsp;
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp; -->
