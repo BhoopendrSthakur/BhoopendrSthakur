@@ -38,7 +38,7 @@ My Email ID - bhoopendrasinghthakur6265@gmail.com
 ### 🔗 Social info
 
 <div id="badges">
-    <a href="https://www.linkedin.com/in/bhoopendra-singh-thakur-545218269/">
+    <a href="https://www.linkedin.com/in/bhoopendra-singh-thakur-545218269/"  target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
      <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=creator.kishansinghthakur27@gmail.com"
