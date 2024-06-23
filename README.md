@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="1100" 
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*U3WRRwLx3zeDkHmIVGLJdw.gif" width="1100" 
      height="390"/>
 </div>
 
@@ -41,7 +41,7 @@ My Email ID - bhoopendrasinghthakur6265@gmail.com
     <a href="https://www.linkedin.com/in/bhoopendra-singh-thakur-545218269/"  target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-     <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=creator.kishansinghthakur27@gmail.com"
+<!--      <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=creator.kishansinghthakur27@gmail.com"
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
     <a href="https://auth.geeksforgeeks.org/user/kishan12363">
@@ -49,13 +49,13 @@ My Email ID - bhoopendrasinghthakur6265@gmail.com
     </a>
     <a href="https://leetcode.com/Kishan0001/" target="blank">
     <img src="https://w7.pngwing.com/pngs/640/947/png-transparent-leetcode-button-icon.png" alt="kishan1236" height="29" width="120" />
-    </a>
-    <a href="https://twitter.com/KishanS36200218" target="blank">
+    </a> -->
+<!--     <a href="https://twitter.com/KishanS36200218" target="blank">
     <img src="https://w7.pngwing.com/pngs/424/95/png-transparent-twitter-3d-twitter-twitter-logo-3d-twitter-logo-social-media-logo-3d-icon.png" alt="kishan1236" height="29" width="30" />
-    </a>
+    </a> -->
 </div>
 
 ---
 
 ### 👀 Visitor Info
-<a href="https://u8views.com/github/KISHANsingh0001"><img src="https://u8views.com/api/v1/github/profiles/126978912/views/day-week-month-total-count.svg"></a>
+<a href="https://u8views.com/github/BhoopendrSthakur"><img src="https://u8views.com/api/v1/github/profiles/126978912/views/day-week-month-total-count.svg"></a>
