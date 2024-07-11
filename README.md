@@ -9,7 +9,7 @@
 
 ---
 ### 👦 About Me
-- 👨‍💻 I'm a M-Tech DOMS First year student.
+- 👨‍💻 I'm currently pursuing my MTech in Management Science at IIT Kanpur.
 
 - 🔭 I’m currently working on **Machine Learning** & focusing on **Python Datastructure**  
 --- 
