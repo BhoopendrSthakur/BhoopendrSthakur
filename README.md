@@ -33,7 +33,7 @@
  
 </div>
 
-My Email ID - bhoopendrasinghthakur6265@gmail.com
+My Email ID - bsthakur24@iitk.ac.in
 ---
 ### 🔗 Social info
 
