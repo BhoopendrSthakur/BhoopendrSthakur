@@ -9,9 +9,9 @@
 
 ---
 ### 👦 About Me
-- 👨‍💻 I'm currently pursuing my MTech in Management Science at IIT Kanpur.
+- 👨‍💻 I'm currently pursuing MTech in Management Science at IIT Kanpur.
 
-- 🔭 I’m currently working on **Machine Learning** & focusing on **Python Datastructure**  
+- 🔭 I’m currently working on **Data science** and **Machine learning**  
 --- 
 
 ### 🔥 My Stats 
