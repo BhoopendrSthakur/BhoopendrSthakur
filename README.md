@@ -1,13 +1,4 @@
-<div id="header" align="center">
-  <img src="https://cdn.dribbble.com/users/2279743/screenshots/4595026/media/740ca256175d7fc03b3b4fb26493fe6c.gif" width="500" 
-     height="390"/>
-</div>
 
-<h2 align="center">Hi 👋, I'm BHOOPENDRA SINGH THAKUR</h2>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Bhoopendra+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
-
----
 ### About Me
 
 👨‍💻 Pursuing MTech in Management Science at IIT Kanpur.
